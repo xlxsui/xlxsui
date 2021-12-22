@@ -1,1 +1,5 @@
-
+- 👋 Hi, I’m @xlxsui
+- 👀 I’m interested in ... IT
+- 🌱 I’m currently learning ... Android, Flutter
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
